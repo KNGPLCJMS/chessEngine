@@ -1,0 +1,20 @@
+body{
+    background-color: slategray;
+}
+#board{
+    display:grid;
+    
+}
+.box{
+    height:100px;
+    width: 100px;
+    float: left;
+    font-size:70px;
+    text-align: center;
+}
+.white{
+    background-color:rgb(236, 213, 167);
+}
+.black{
+    background-color:rgb(216, 165, 71);
+}
